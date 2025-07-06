@@ -6,3 +6,4 @@ Raccoon Dating Sim: You're a worker in a local Tim Hortons, and suddenly the sto
 Play the web game from itch.io & try to go through all the different dialogue options! We put a lot of effort into the writing!
 
 Have fun!
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
