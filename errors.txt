@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 141: end of line expected.
+    show jm with im.Scale(750, 750) at center
+                                    ^
+
+Ren'Py Version: Ren'Py 8.3.7.25031702
+Sun Jul  6 05:28:06 2025
